@@ -4,8 +4,7 @@
 
 I'm Shawanda for the USA (although my heart misses the UK and West Africa) and I analyze data. I really enjoy learning languages such as Python and SQL, as well as working with data visualization and design in general.
 
-
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wandaasbury)](https://github.com/wandaasbury/github-readme-stats)
 
 <!--
 **wandaasbury/wandaasbury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
