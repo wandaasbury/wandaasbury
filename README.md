@@ -1,4 +1,11 @@
+![aboutme](https://user-images.githubusercontent.com/21301202/180655866-8723e1b0-4f3e-461c-b40a-6a92ff6d6c32.png)
+
 ### Hi there 👋
+
+I'm Shawanda for the USA (although my heart misses the UK and West Africa) and I analyze data. I really enjoy learning languages such as Python and SQL, as well as working with data visualization and design in general.
+
+
+
 
 <!--
 **wandaasbury/wandaasbury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
