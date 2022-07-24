@@ -1,4 +1,4 @@
-![aboutme](https://user-images.githubusercontent.com/21301202/180655866-8723e1b0-4f3e-461c-b40a-6a92ff6d6c32.png)
+![aboutme](https://user-images.githubusercontent.com/21301202/180655994-270276d7-00ce-4987-8401-5a54e5f25971.png)
 
 ### Hi there 👋
 
