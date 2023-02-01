@@ -28,9 +28,7 @@ Here are some ideas to get you started:
 
 <h2 align="left">Here's a list of my data analysis work:</h2>
 
-Movie Correlation Data Analysis 
-<br/>
-https://github.com/wandaasbury/moviecorrelationanalysis/blob/main/Movie_Correlation_Data_Analysis.ipynb
+<a href="https://github.com/wandaasbury/moviecorrelationanalysis/blob/main/Movie_Correlation_Data_Analysis.ipynb" target="_blank">Movie Correlation Data Analysis</a> 
 
 Retail and Manufacturing Data Analysis
 <br/>
