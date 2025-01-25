@@ -29,18 +29,12 @@ Here are some ideas to get you started:
 <h2 align="left">Here's a list of my data analysis work:</h2>
 
 <a href="https://github.com/wandaasbury/moviecorrelationanalysis/blob/main/Movie_Correlation_Data_Analysis.ipynb" target="_blank">Movie Correlation Data Analysis</a> 
+<br/>
+<a href="https://github.com/wandaasbury/Retail-and-Manufacturng-Data-Analysis" target="_blank">Retail and Manufacturing Data Analysis</a>
+<br/>
+<a href="https://docs.google.com/presentation/d/1QIakSqmyEUM7aWfoLCh6XCflI9VlEl4nn4vRldVlVZo/edit?usp=sharing" target="_blank">Sales Data Analysis Presentation</a>
+<br/>
+<a href="https://github.com/wandaasbury/callecentermetrics" target="_blank"> Call Center Metrics Dashboard</a>
 
-Retail and Manufacturing Data Analysis
-<br/>
-https://github.com/wandaasbury/Retail-and-Manufacturng-Data-Analysis
-https://docs.google.com/presentation/d/1QIakSqmyEUM7aWfoLCh6XCflI9VlEl4nn4vRldVlVZo/edit?usp=sharing
-
-<!--Ecommerce Dashboard 
-<br/>
-https://github.com/wandaasbury/ecommercedashboard
--->
-Call Center Metrics Dashboard
-<br/>
-https://github.com/wandaasbury/callecentermetrics
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=wandaasbury&show_icons=true&locale=en&layout=compact" alt="wandaasbury" /></p>-->
