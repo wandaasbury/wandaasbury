@@ -1,4 +1,3 @@
-![aboutme](https://user-images.githubusercontent.com/21301202/180655994-270276d7-00ce-4987-8401-5a54e5f25971.png)
 
 <!--
 **wandaasbury/wandaasbury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2 align="center">Hi 👋, I'm Shawanda</h2>
-<h4 align="center">I'm Shawanda and I analyze data. I really enjoy learning languages such as Python and SQL, as well as working with data visualization and design in general.</h4>
+<h4 align="center"> I enjoy learning languages such as Python and SQL, as well as working with data visualization and design in general.</h4>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
