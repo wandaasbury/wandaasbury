@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="center">Hi 👋, I'm Shawanda</h2>
-<h4 align="center"> I enjoy learning languages such as Python and SQL, as well as working with data visualization and design in general.</h4>
+<h4 align="center"> I enjoy learning languages such as Python and SQL and working with data visualization and design in general.</h4>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
